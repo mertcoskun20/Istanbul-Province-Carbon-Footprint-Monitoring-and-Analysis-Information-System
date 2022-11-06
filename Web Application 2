@@ -1,0 +1,25 @@
+We managed to be among the last 9 finalists with our project called Istanbul Province Carbon 
+Footprint, which we prepared for the Sustainable Cities Hackathon, to which 1000+ people applied.
+Sustainable Cities Hackathon was organized jointly by Istanbul Metropolitan Municipality, Microsoft 
+Turkey and Coderspace.io companies. When we examined the details of our project, a web 
+application was designed with ArcGIS Pro by enlarging the carbon footprint information system we 
+have made for the campus, and considering it within the scope of Istanbul. First of all, the carbon 
+footprint was calculated for Istanbul. The carbon footprint calculation was calculated using the natural 
+gas consumption and electricity consumption data of Istanbul districts published on the IBB Data 
+portal, and the carbon emission released in Istanbul districts was calculated. Then, carbon emissions 
+from the fuel consumption of IETT buses, electricity, natural gas and fuel consumption of metro and 
+tram lines in Istanbul (using Metro Istanbul 2020 annual report data) were calculated. The carbon 
+storage potential of the forests in Istanbul was calculated by image processing from the 30m resolution 
+landsat satellite image. In addition to storage, solar panels and electrical energy obtained from garbage 
+are also calculated as factors reducing carbon emissions. Using all these data, the total carbon footprint 
+of the province of Istanbul was calculated. This analysis and results were converted into a web 
+application using the Web Map plugin of the ArcGIS Pro application. Thus, by using digital 
+technologies to struggle with climate change, it is expected to accelerate the impact of policies 
+determined by decision makers. Decision makers can be determined as the IBB President, district 
+mayors, general managers of public institutions and organizations, and in addition to these, the people 
+of Istanbul.
+
+Drive links of my application: 
+https://drive.google.com/file/d/1hW2lQavnnUYOnYQraaSBVaHUjE4kghA9/view?usp=share_link
+https://drive.google.com/file/d/13MTr56ZR5IagH3uE5GAppzBaYCMNC9i9/view?usp=share_link
+https://drive.google.com/file/d/1povaO6eyNy64ElUL_lrGo5LpGkXeFjTh/view?usp=share_link
